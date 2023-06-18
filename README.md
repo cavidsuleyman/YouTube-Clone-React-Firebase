@@ -31,6 +31,8 @@ This project was developed using the following technologies
 >It is a Short Side page, you can like and unlike videos, also I add this video, play&pausa, mute&unmute and also a progress bar:
 ![There was a screenshot here](./screen-1.png)
 
->It is home page:
+>It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more and less more descriptions, and write comments:
 ![There was a screenshot here](./screen-2.png)
 
+>It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more and less more descriptions, and write comment:
+![There was a screenshot here](./screen-2.png)
