@@ -28,7 +28,7 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
->It is Sign in page:
+>It is a Short Side page, you can like and unlike videos, also I add this video, play&pausa, mute&unmute and also a progress bar:
 ![There was a screenshot here](./screen-1.png)
 
 >It is home page:
