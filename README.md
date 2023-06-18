@@ -34,5 +34,8 @@ This project was developed using the following technologies
 >It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more and less more descriptions, and write comments:
 ![There was a screenshot here](./screen-2.png)
 
->It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more and less more descriptions, and write comment:
-![There was a screenshot here](./screen-2.png)
+>It is a Sign-in page, you can Sign in with Google and Facebook:
+![There was a screenshot here](./screen-3.png)
+
+>It is a Home page, you can search here videos, block videos, open-close Sidebar:
+![There was a screenshot here](./screen-4.png)
