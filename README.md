@@ -12,7 +12,7 @@
 > **STEP-2:**  enter the `YouTube-Clone-React-Firebase` folder that appears <br/>
 > **STEP-3:**  Open the folder you are in in a text editor <br/>
 > **STEP-4:**  Open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/YouTube-ShortSide-ReactJS/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/YouTube-Clone-React-Firebase/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
