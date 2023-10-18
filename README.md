@@ -25,17 +25,3 @@ This project was developed using the following technologies
 | 2 | Firebase | Create Sign in and Sign up system |
 | 3 | VSCode | Text editor used in the project |
 | 4 | AntDesign | React UI library |
-
-## SAMPLE SCREEN APPEARANCE
-
->It is a Short Side page, you can like and unlike videos, also I added this video, play&pausa, mute&unmute and also a progress bar:
-![There was a screenshot here](../screen-1.png)
-
->It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more descriptions, and write comments:
-![There was a screenshot here](./screen-2.png)
-
->It is a Sign-in page, you can Sign in with Google and Facebook:
-![There was a screenshot here](./screen-3.png)
-
->It is a Home page, you can search here for videos, block videos, and open-close Sidebar:
-![There was a screenshot here](./screen-4.png)
