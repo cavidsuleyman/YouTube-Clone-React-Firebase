@@ -29,7 +29,7 @@ This project was developed using the following technologies
 ## SAMPLE SCREEN APPEARANCE
 
 >It is a Short Side page, you can like and unlike videos, also I added this video, play&pausa, mute&unmute and also a progress bar:
-![There was a screenshot here](screen-1.png)
+![There was a screenshot here](../screen-1.png)
 
 >It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more descriptions, and write comments:
 ![There was a screenshot here](./screen-2.png)
